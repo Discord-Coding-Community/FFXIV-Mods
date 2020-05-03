@@ -11,6 +11,7 @@ This repo was created to server as both a backup, and an alternate download loca
 ## Guildelines
 <img align="right" src="https://lutris.net/media/cache/4f/3e/4f3ebfe8307a644ad155cdf56475acaa.jpg" alt="https://lutris.net/media/cache/4f/3e/4f3ebfe8307a644ad155cdf56475acaa.jpg">
 All FFXIV Mod Developers must follow these guidelines in order to use this repository.
+
 - All mods shared here must be kept up to date
 - All mods shared here must be listed on <a href="https://www.xivmodarchive.com/">XIV Mod Archive</a>
 - All mods shared here must be linked to in the alternate downloads section of their <a href="https://www.xivmodarchive.com/">XIV Mod Archive</a> listing(s).
