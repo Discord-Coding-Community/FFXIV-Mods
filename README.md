@@ -1,3 +1,5 @@
+<img src="https://wallpapercave.com/wp/wp4432959.png" alt="https://wallpapercave.com/wp/wp4432959.png">
+
 # FFXIV-Mods
 A Collection of Mods for use with Final Fantasy XIV
 
@@ -6,6 +8,7 @@ A Collection of Mods for use with Final Fantasy XIV
 All mods in this repo are created by PhantomDEV Developers and are shared on <a href="https://www.xivmodarchive.com/">XIV Mod Archive</a>.
 This repo was created to server as both a backup, and an alternate download location for all of PhantomDEV's FFXIV Mod Developers to host their downloads from.
 
+<img "aligh=right" src="https://lutris.net/media/cache/4f/3e/4f3ebfe8307a644ad155cdf56475acaa.jpg" alt="https://lutris.net/media/cache/4f/3e/4f3ebfe8307a644ad155cdf56475acaa.jpg">
 
 ## Guildelines
 All FFXIV Mod Developers must follow these guidelines in order to use this repository.
