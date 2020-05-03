@@ -1,8 +1,13 @@
 # The Healer's Jacket
 Spellcaster's Jacket for Healers
 
-## Details
-This mods takes The Spellcaster's Jacket from The Spellcaster mod set by N'ananère and applies it to the Scion Healer's Robe. Some issues in patterns are there, however I'm hoping to get those dealt with eventually. I'm simply a bit new to making mods and this one was a trick to swap over, lol.
+## Contributor Information:
+Credits go to N'ananère for giving me permission to use TERA - The Spellcaster for this outfit swap and to Wonton#2064 for helping fix the broken areas of the mod.
+
+## Author's Comments:
+This mods takes The Spellcaster's Jacket from The Spellcaster mod set by N'ananère and applies it to the Scion Healer's Robe.
+
+Screenshot is from TERA - The Spellcaster as I haven't had a chance to replace the old screenshot [or take a better one for that matter].
 
 ## Tool(s) Needed
 - FFXIV_Textools
