@@ -5,14 +5,12 @@ A Collection of Mods for use with Final Fantasy XIV
 
 ## Information
 
-<img align="right" src="https://lutris.net/media/cache/4f/3e/4f3ebfe8307a644ad155cdf56475acaa.jpg" alt="https://lutris.net/media/cache/4f/3e/4f3ebfe8307a644ad155cdf56475acaa.jpg">
-
 All mods in this repo are created by PhantomDEV Developers and are shared on <a href="https://www.xivmodarchive.com/">XIV Mod Archive</a>.
 This repo was created to server as both a backup, and an alternate download location for all of PhantomDEV's FFXIV Mod Developers to host their downloads from.
 
 ## Guildelines
 All FFXIV Mod Developers must follow these guidelines in order to use this repository.
-
+<img align="right" src="https://lutris.net/media/cache/4f/3e/4f3ebfe8307a644ad155cdf56475acaa.jpg" alt="https://lutris.net/media/cache/4f/3e/4f3ebfe8307a644ad155cdf56475acaa.jpg">
 - All mods shared here must be kept up to date
 - All mods shared here must be listed on <a href="https://www.xivmodarchive.com/">XIV Mod Archive</a>
 - All mods shared here must be linked to in the alternate downloads section of their <a href="https://www.xivmodarchive.com/">XIV Mod Archive</a> listing(s).
