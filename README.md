@@ -14,7 +14,7 @@ All FFXIV Mod Developers must follow these guidelines in order to use this repos
 
 - All mods shared here must be kept up to date
 - All mods shared here must be listed on <a href="https://www.xivmodarchive.com/">XIV Mod Archive</a>
-- All mods shared here must be linked to in the alternate downloads section of their <a href="https://www.xivmodarchive.com/">XIV Mod Archive</a> listing(s).
+- All mods shared here must be linked to in their <a href="https://www.xivmodarchive.com/">XIV Mod Archive</a> listing(s).
 
 Failure to follow the above guidelines will result in the mod(s) being removed from the repository.
 
