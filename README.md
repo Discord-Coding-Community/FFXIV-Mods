@@ -5,7 +5,7 @@ A Collection of Mods for use with Final Fantasy XIV
 
 ## Information
 
-All mods in this repo are created by Discord Coding Community Developers and are shared on <a href="https://www.xivmodarchive.com/">XIV Mod Archive</a>.
+All mods in this repo are shared on <a href="https://www.xivmodarchive.com/">XIV Mod Archive</a>.
 This repo was created to server as both a backup, and an alternate download location for all of PhantomDEV's FFXIV Mod Developers to host their downloads from.
 
 ## Guildelines
